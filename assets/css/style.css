@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url("../images/crystal.jpg");
+    background-size: cover;
+    
+  }
+  
+  .jumbotron h1 {
+    color: rgb(185, 57, 57);
+    text-shadow: 3px 3px #fff;
+  
+  }
+
+  
+  .instructions {
+    text-align: center;
+    font-size: medium; 
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(165, 40, 165) ;
+
+  }
